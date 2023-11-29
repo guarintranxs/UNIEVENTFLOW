@@ -24,7 +24,7 @@
         </div>
         
         <div class="nav-links">
-          <a href="index.php" >Home</a>
+          <a href="index.html" >Home</a>
           <a href="services.php">Services</a>
           <a href="team.php" target="">Team</a>
           <a href="about.php" target="">About</a>
